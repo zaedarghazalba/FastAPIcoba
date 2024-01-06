@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api": {
-      "handler": "/cobaFastAPI/main.app",
+      "handler": "/cobaFastAPI/index.app",
       "runtime": "python3.8",
       "memory": 512
     }
