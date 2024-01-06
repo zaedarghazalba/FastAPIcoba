@@ -1,6 +1,8 @@
 {
+  "version": 2,
   "functions": {
-    "cobaFastAPI/main.py": {
+    "api": {
+      "handler": "cobaFastAPI/main.app",
       "runtime": "python3.8",
       "memory": 512
     }
